@@ -2,7 +2,7 @@
 
 ## 1. 代码拉取
 ```bash
-git clone 
+git clone https://github.com/elephantrobotics/myagv_plus_color_follow.git
 ```
 
 ## 2. 案例复现
@@ -14,7 +14,7 @@ ros2 launch myagv_plus_controller controller.launch.py
 
 再打开一个新的终端，输入以下指令，启动跟随任务
 ```bash
-cd 
+cd ~/myagv_plus_color_follow
 ```
 
 ```bash
